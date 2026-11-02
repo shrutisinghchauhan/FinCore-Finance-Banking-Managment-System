@@ -176,11 +176,29 @@ The database transaction ensures that the balance updates and transaction record
 - Visual Studio 2022 with ASP.NET and web development support
 - Git
 
+
+## 📸 Application Screenshots
+
+### FinCore Banking Management System
+
+## 📸 Application Screenshots
+
+![Screenshot 1](Screenshot%202026-11-02%20201505.png)
+
+![Screenshot 2](Screenshot%202026-11-02%20201516.png)
+
+![Screenshot 3](Screenshot%202026-11-02%20201523.png)
+
+![Screenshot 4](Screenshot%202026-11-02%20201529.png)
+
+![Screenshot 5](Screenshot%202026-11-02%20201537.png)
+
+![Screenshot 6](Screenshot%202026-11-02%20201549.png)
+
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/FinCore.git
-cd FinCore
+https://github.com/shrutisinghchauhan/FinCore-Finance-Banking-Managment-System
 ```
 
 Replace `YOUR_USERNAME` with your GitHub username.
