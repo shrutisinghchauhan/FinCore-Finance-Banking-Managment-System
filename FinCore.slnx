@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="fincore.client/fincore.client.esproj">
+    <Build />
+    <Deploy />
+  </Project>
+  <Project Path="FinCore.Server/FinCore.Server.csproj" />
+</Solution>
